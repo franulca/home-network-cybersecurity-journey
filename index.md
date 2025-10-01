@@ -5,7 +5,7 @@ A curious journey into understanding, securing, and improving my home network �
 
 Securing a home network is a bit like protecting your own little kingdom — except the kingdom is full of teenagers, smart fridges, smart lights, and mystery devices you don’t remember installing.
 
-This is my story of turning my home into a Cyber Safe Haven — part exploration, part strategy, part adventure. It’s about curiosity, learning, and turning complexity into clarity.
+I am capturing my story of turning my home into a Cyber Safe Haven here — it is part exploration, part strategy, part adventure. It’s about curiosity, learning, and turning complexity into clarity.
 
 From keeping Roblox alive for teens, streaming 4K Cat TV, to seamless video conferencing and exploring new tech boundaries — this is my quest to practise cybersecurity and leadership in the real world.
 
