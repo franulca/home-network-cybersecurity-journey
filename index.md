@@ -4,4 +4,5 @@ This is the starting point of my project documenting applying cybersecurity fram
 
 Stay tuned!
 ## Chapters
-1. [Charting the Unknown](chapters/01-charting-the-unknown.md)
+1. [Step 1 — Inventory & Recon: Seeing the Invisible
+ (Mapping assets, understanding the lay of the land.)](chapters/01-charting-the-unknown.md)
