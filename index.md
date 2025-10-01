@@ -13,7 +13,7 @@ From keeping Roblox alive for teens, streaming 4K Cat TV, to seamless video conf
 
 ## Begin the Quest
 
-1. [ Getting Ready - Charting the Unknown ](00-Preface-Charting the Unknown)
+1. [Getting Ready - Charting the Unknown](/00-Preface-Charting the Unknown.md)
 
 ---
 
