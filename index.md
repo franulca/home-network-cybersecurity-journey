@@ -13,8 +13,7 @@ From keeping Roblox alive for teens, streaming 4K Cat TV, to seamless video conf
 
 ## Begin the Quest
 
-1. [Step 1 — Inventory & Recon: Seeing the Invisible
- (Mapping assets, understanding the lay of the land.)](chapters/01-charting-the-unknown.md)
+1. [ Getting Ready - Charting the Unknown ](00-Preface-Charting the Unknown)
 
 ---
 
