@@ -14,7 +14,8 @@ From keeping Roblox alive for teens, streaming 4K Cat TV, to seamless video conf
 ## Begin the Quest
 
 1. [Getting Ready - Charting the Unknown](00-Preface-Charting-the-Unknown)
-2. [Inventory and Recon](01-Step1-Inventory-and-Recon)
+2. [Step 1 - Inventory and Recon](01-Step1-Inventory-and-Recon)
+3. [Deep Dive Decisions - First bump in the Road - Which Switch to Switch?](01a-First-bump-in-the-road)
 
 
 ---
