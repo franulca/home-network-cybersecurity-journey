@@ -42,7 +42,10 @@ For a network I’m trying to harden against both performance hiccups and securi
 ## Troubleshooting
 I kept it simple: hands-on port testing.
 Bumping cables connected to the SG300 reliably caused ports to drop and the switch to stumble through a gradual restart. I even caught it on video — a clear sign that this wasn’t just config gremlins or firmware weirdness. It was hardware failing in real time.
-[Insert short video clip of port bump/restart issue here]
+
+![CiscoSG300 Instability tests](sg300Unstable.mp4)
+
+
 At that point, no amount of VLAN tweaking or firmware flashing was going to resurrect it.
 
 ## Decision Points
