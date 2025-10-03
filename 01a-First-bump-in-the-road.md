@@ -77,7 +77,7 @@ Once the SG300 was officially in the “retire me” bucket, I weighed a few opt
 ## The Decision
 After a round of port testing (and one very telling video of the SG300 dropping out when a cable was nudged), the decision became clear: retire the Cisco and bring in the UniFi Flex 2.5G. It gave me the right balance of reliability, simplicity, and future-proofing without overcomplicating my setup — at least for now.
 
-<img src="unifiFlexSwitch.png" alt="Ubiquiti UniFi Flex 8 Port 2.5Gbe PoE++ Switch" width="500" style="max-width:100%; height:auto;">
+<img src="/assets/unifiFlexSwitch.png" alt="Ubiquiti UniFi Flex 8 Port 2.5Gbe PoE++ Switch" width="500" style="max-width:100%; height:auto;">
 
 And with that, the question of which switch to switch was answered.
 
