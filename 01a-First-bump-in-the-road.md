@@ -70,7 +70,7 @@ Once the SG300 was officially in the “retire me” bucket, I weighed a few opt
   - Pros: A rack-mountable UniFi switch would plug me into modern centralised management — VLAN orchestration, monitoring, and seamless integration with the UniFi Controller. It’s a powerful way to standardise and future-proof the whole network.
   - Cons: Overkill for a home theatre branch. It adds cost, complexity, and features I don’t actually need here.
 
-- Scale down to something simpler: the UniFi Flex 2.5G
+- Scale down to something simpler: the Ubiquiti UniFi Flex 8 Port 2.5Gbe PoE++ Switch
   - Pros: Compact, fanless, quiet, and reliable — with enough 2.5G speed and ports to cover the theatre stack. Still part of the UniFi family, but right-sized for an edge role without dragging me into a full ecosystem build-out just yet. PoE is there if I ever need it, but all my devices have their own power.
   - Cons: Fewer bells and whistles than the full UniFi gear — but in this part of the network, those bells don’t ring anyway.
 
