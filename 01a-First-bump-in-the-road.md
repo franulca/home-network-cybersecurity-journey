@@ -43,11 +43,12 @@ For a network I’m trying to harden against both performance hiccups and securi
 I kept it simple: hands-on port testing.
 Bumping cables connected to the SG300 reliably caused ports to drop and the switch to stumble through a gradual restart. I even caught it on video — a clear sign that this wasn’t just config gremlins or firmware weirdness. It was hardware failing in real time.
 
-<video width="640" controls>
-  <source src="sg300Unstable.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/7qdy1CmuSnI" 
+  title="YouTube video player" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
 
 At that point, no amount of VLAN tweaking or firmware flashing was going to resurrect it.
