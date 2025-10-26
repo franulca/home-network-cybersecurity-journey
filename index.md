@@ -16,6 +16,7 @@ From keeping Roblox alive for teens, streaming 4K Cat TV, to seamless video conf
 1. [Getting Ready - Charting the Unknown](00-Preface-Charting-the-Unknown)
 2. [Step 1 - Inventory and Recon](01-Step1-Inventory-and-Recon)
 3. [Deep Dive Decisions - First bump in the Road - Which Switch to Switch?](01a-First-bump-in-the-road)
+4. [Gateway Gauntlet - When 'Nom Nom' tried to eat my network](01b-Gateway-Gauntlet)
 
 
 ---
