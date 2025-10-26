@@ -9,7 +9,7 @@ series: "Home Network Overhaul"
 ## 🌐 The Gateway Gauntlet — When “Nom Nom” Tried to Eat My Network
 
 After *A Bump in the Road*, I was finally starting to feel in control of my home network.  
-The switch was behaving, the NAS was stable, and my cables were finally more organised than spaghetti.  
+The switch was behaving, and my cables were finally more organised than spaghetti.  
 So naturally, it was time to introduce something new.
 
 Enter the **UniFi Cloud Gateway Fibre** — the sleek, all-in-one device that promised faster routing, unified management, and the gateway to VLANs and security policies.  
@@ -29,8 +29,8 @@ It didn’t just join the network; it *took* the network.
 
 We nicknamed it **Nom Nom**, because it went around gobbling up everything it could find.
 
-> “Within minutes, devices were flickering in and out of the UniFi console.  
-> My network had turned into an all-you-can-eat buffet for Nom Nom.”
+> Within minutes, devices were flickering in and out of the UniFi console.  
+> My network had turned into an all-you-can-eat buffet for Nom Nom.
 
 At first, things *looked* fine — my laptop had Internet access.  
 But then my husband’s laptop didn’t.  
@@ -52,7 +52,7 @@ Two routers.
 Both dishing out IP addresses.  
 Both insisting they were the rightful boss.
 
-> “It was like two teachers trying to mark the same attendance sheet — both convinced the other was wrong.”
+> It was like two teachers trying to mark the same attendance sheet — both convinced the other was wrong.
 
 Devices were hopping subnets.  
 DHCP leases were clashing.  
@@ -99,7 +99,7 @@ I manually configured the laptop’s IP to avoid conflicts with the old pfSense 
 
 For the first time, I could *see* what the Gateway was actually doing — and more importantly, what it shouldn’t be doing.
 
-> “Sometimes the best debugging tool isn’t new tech — it’s old hardware that still has a LAN port.”
+> Sometimes the best debugging tool isn’t new tech — it’s old hardware that still has a LAN port.
 
 ---
 
@@ -135,7 +135,7 @@ By the end, every goal from my earlier list was achieved.
 - **Adopt incrementally, not automatically.**  
   One device at a time keeps the system understandable.
 
-> “Nom Nom taught me that automation without visibility is just chaos with better marketing.”
+> Nom Nom taught me that automation without visibility is just chaos with better marketing.
 
 ---
 
